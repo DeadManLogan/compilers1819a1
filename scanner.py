@@ -18,11 +18,6 @@ def getchar(text,pos):
 	
 	# **Σημείο #3**: Προαιρετικά, προσθέστε τις δικές σας ομαδοποιήσεις
 	
-	if c>='0' and c<='2': 
-		return c	# WE NEED ONLY ONE IF TO START THE NUMBER CHECKING
-	elif c == '3':
-		return c
-	
 	
 	
 	return c	# anything else
